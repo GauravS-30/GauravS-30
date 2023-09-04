@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there I'm Gaurav👋
+🔭 I’m currently working as a Machine Learning Engineer.
+🌱 I’m currently learning how to build GenAI applications uding HuggingFace
 <!--
 **GauravS-30/GauravS-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
